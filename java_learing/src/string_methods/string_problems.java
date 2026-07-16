@@ -22,6 +22,7 @@ public class string_problems {
 			System.out.println("the name dosent start with A");
 		}
 		*/
+		e
 	}
 
 }
